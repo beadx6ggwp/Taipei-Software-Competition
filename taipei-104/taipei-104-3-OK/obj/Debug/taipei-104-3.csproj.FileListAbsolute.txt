@@ -1,0 +1,10 @@
+C:\Users\Davis-School\Desktop\taipei-104-3\bin\Debug\taipei-104-3.exe.config
+C:\Users\Davis-School\Desktop\taipei-104-3\bin\Debug\taipei-104-3.exe
+C:\Users\Davis-School\Desktop\taipei-104-3\bin\Debug\taipei-104-3.pdb
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei-104-3.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei_104_3.Form1.resources
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei_104_3.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei-104-3.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei-104-3.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei-104-3.exe
+C:\Users\Davis-School\Desktop\taipei-104-3\obj\Debug\taipei-104-3.pdb
