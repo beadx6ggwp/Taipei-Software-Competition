@@ -28,3 +28,13 @@ C:\Users\david\Desktop\許展維_Q4\obj\Debug\許展維_Q4.csproj.GenerateResour
 C:\Users\david\Desktop\許展維_Q4\obj\Debug\許展維_Q4.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\許展維_Q4\obj\Debug\許展維_Q4.exe
 C:\Users\david\Desktop\許展維_Q4\obj\Debug\許展維_Q4.pdb
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\bin\Debug\許展維_Q4.exe.config
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\bin\Debug\許展維_Q4.exe
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\bin\Debug\許展維_Q4.pdb
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.Form1.resources
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.Properties.Resources.resources
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.csproj.GenerateResource.Cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.exe
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q4-OK\obj\Debug\許展維_Q4.pdb

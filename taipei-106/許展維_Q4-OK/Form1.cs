@@ -27,6 +27,7 @@ namespace 許展維_Q4
             string devidend = string.Join("", Array.ConvertAll(arr, s => Convert.ToString(s, 2).PadLeft(8, '0')));
             devidend += "".PadLeft(16, '0');// 左移16位元
 
+            // 使用2進位長除法來解決(該方法修改後運算也能處理大數除法，剩下只是效率問題)
             int mod = 0;
             for (int count = 0; count < devidend.Length; count++)
             {
