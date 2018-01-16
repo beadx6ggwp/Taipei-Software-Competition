@@ -83,8 +83,8 @@ namespace taipei_104_1
 
                     if (iswin)
                     {
-                        MessageBox.Show($"{btn.Text} win");
                         Array.ForEach(btns, item => { if (item.Text != btn.Text) item.Enabled = false; });
+                        MessageBox.Show($"{btn.Text} win");
                     }
                     else if (turnCount == size * size) MessageBox.Show("平局");
                 };

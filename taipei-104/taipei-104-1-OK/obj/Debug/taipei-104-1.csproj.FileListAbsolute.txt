@@ -17,3 +17,13 @@ C:\Users\Davis-School\Desktop\taipei-104-1\obj\Debug\taipei-104-1.csproj.Generat
 C:\Users\Davis-School\Desktop\taipei-104-1\obj\Debug\taipei-104-1.csproj.CoreCompileInputs.cache
 C:\Users\Davis-School\Desktop\taipei-104-1\obj\Debug\taipei-104-1.exe
 C:\Users\Davis-School\Desktop\taipei-104-1\obj\Debug\taipei-104-1.pdb
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\bin\Debug\taipei-104-1.exe.config
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\bin\Debug\taipei-104-1.exe
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\bin\Debug\taipei-104-1.pdb
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei-104-1.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei_104_1.Form1.resources
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei_104_1.Properties.Resources.resources
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei-104-1.csproj.GenerateResource.Cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei-104-1.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei-104-1.exe
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-104\taipei-104-1-OK\obj\Debug\taipei-104-1.pdb
