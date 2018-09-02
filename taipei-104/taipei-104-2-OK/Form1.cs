@@ -88,7 +88,7 @@ namespace taipei_104_2
             int carry = 0, sum = 0;
             for (int i = 0; i < MAX; i++)
             {
-                sum = a[i] + b[i];
+                sum = a[i] + b[i] + carry;
                 carry = sum / 10;
                 result[i] = sum % 10;
             }
