@@ -53,8 +53,10 @@ namespace 許展維_Q3
 
         private void button2_Click(object sender, EventArgs e)
         {
+            // 計算
             List<PointF> result = new List<PointF>();
 
+            // 只要繪製所有座標中，最大和最小的區段
             float min = list.Min(s => s.X);
             float max = list.Max(s => s.X);
             for (float i = min; i <= max; i += 0.1f)
@@ -62,35 +64,9 @@ namespace 許展維_Q3
                 result.Add(new PointF(i, calc(i)));
             }
 
-            // draw
-            chart1.Series.Clear();
-            chart1.ChartAreas[0].AxisX.IsMarginVisible = false;
-            chart1.ChartAreas[0].AxisY.IsMarginVisible = false;
-
-
-            chart1.Series.Add("Line");
-            chart1.Series[0].ChartType = SeriesChartType.Line;
-            for (int i = 0; i < result.Count; i++)
-            {
-                PointF p = result[i];
-                chart1.Series[0].Points.AddXY(p.X, p.Y);
-            }
-
-            chart1.Series.Add("Point");
-            chart1.Series[1].ChartType = SeriesChartType.Point;
-            for (int i = 0; i < list.Count; i++)
-            {
-                PointF p = list[i];
-                chart1.Series[1].Points.AddXY(p.X, p.Y);
-            }
+            // 繪製
+            Draw(result);
         }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            chart1.Series.Clear();
-            list.Clear();
-        }
-
         float calc(float x)
         {
             float result = 0;
@@ -119,6 +95,38 @@ namespace 許展維_Q3
             }
 
             return up / down;
+        }
+
+        private void Draw(List<PointF> points)
+        {
+            // draw
+            chart1.Series.Clear();
+            chart1.ChartAreas[0].AxisX.IsMarginVisible = false;
+            chart1.ChartAreas[0].AxisY.IsMarginVisible = false;
+
+
+            chart1.Series.Add("Line");
+            chart1.Series[0].ChartType = SeriesChartType.Line;
+            for (int i = 0; i < points.Count; i++)
+            {
+                PointF p = points[i];
+                chart1.Series[0].Points.AddXY(p.X, p.Y);
+            }
+
+            chart1.Series.Add("Point");
+            chart1.Series[1].ChartType = SeriesChartType.Point;
+            for (int i = 0; i < list.Count; i++)
+            {
+                PointF p = list[i];
+                chart1.Series[1].Points.AddXY(p.X, p.Y);
+            }
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            chart1.Series.Clear();
+            list.Clear();
         }
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
