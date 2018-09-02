@@ -72,10 +72,10 @@ namespace 許展維_Q3
             float result = 0;
 
             // 按照公式輸出
-            for (int i = 0; i < list.Count; i++)
+            for (int j = 0; j < list.Count; j++)
             {
-                PointF p = list[i];
-                result += p.Y * GetL(i, x);
+                PointF p = list[j];
+                result += p.Y * GetL(j, x);
             }
 
             return result;

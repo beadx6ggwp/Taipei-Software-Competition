@@ -28,3 +28,13 @@ D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-So
 D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.csproj.CoreCompileInputs.cache
 D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.exe
 D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.pdb
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\bin\Debug\許展維_Q3.exe.config
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\bin\Debug\許展維_Q3.exe
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\bin\Debug\許展維_Q3.pdb
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.Form1.resources
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.Properties.Resources.resources
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.csproj.GenerateResource.Cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.exe
+C:\Users\david\Documents\GitHub\Taipei-Software-Competition\taipei-106\許展維_Q3-OK\obj\Debug\許展維_Q3.pdb
