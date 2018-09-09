@@ -33,8 +33,8 @@ namespace taipei_99_3
             // 最右下角是記錄到，物體邊界外，會多1，所以要-1
             Point[] pts = getSize(bmp, Color.White);
             // 記得他的輸出Y軸是要正的
-            Point p1 = new Point(pts[0].X, bmp.Height - pts[0].Y);
-            Point p2 = new Point(pts[1].X - 1, bmp.Height - pts[1].Y - 1);
+            Point p1 = new Point(pts[0].X, (bmp.Height - 1) - pts[0].Y);
+            Point p2 = new Point(pts[1].X, (bmp.Height - 1) - pts[1].Y);
 
             double m = (double)(p2.Y - p1.Y) / (double)(p2.X - p1.X);
 
@@ -49,6 +49,7 @@ namespace taipei_99_3
 
             int lx = 0, ty = 0, rx = 0, by = 0;
 
+            // 篩選邊界
             bool isTouch = false;
             for (int x = 0; x < bmp.Width; x++)
             {
@@ -68,7 +69,7 @@ namespace taipei_99_3
                 }
                 else if (!hasObj && isTouch)
                 {
-                    rx = x;
+                    rx = x - 1;
                     break;
                 }
             }
@@ -92,10 +93,13 @@ namespace taipei_99_3
                 }
                 else if (!hasObj && isTouch)
                 {
-                    by = y;
+                    by = y - 1;
                     break;
                 }
             }
+
+            // 計算斜率
+
             // 如果左上角是黑色，代表他是從左上到右下的斜線
             if (bmp.GetPixel(lx, ty).R != 255)
             {

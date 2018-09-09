@@ -8,3 +8,13 @@ C:\Users\Saihs\Desktop\taipei-99-3\obj\Debug\taipei-99-3.csproj.GenerateResource
 C:\Users\Saihs\Desktop\taipei-99-3\obj\Debug\taipei-99-3.csproj.CoreCompileInputs.cache
 C:\Users\Saihs\Desktop\taipei-99-3\obj\Debug\taipei-99-3.exe
 C:\Users\Saihs\Desktop\taipei-99-3\obj\Debug\taipei-99-3.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\bin\Debug\taipei-99-3.exe.config
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\bin\Debug\taipei-99-3.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\bin\Debug\taipei-99-3.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei-99-3.csprojAssemblyReference.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei_99_3.Form1.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei_99_3.Properties.Resources.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei-99-3.csproj.GenerateResource.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei-99-3.csproj.CoreCompileInputs.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei-99-3.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Taipei-Software-Competition\taipei-99\taipei-99-3\obj\Debug\taipei-99-3.pdb
